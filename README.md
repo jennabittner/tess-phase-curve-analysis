@@ -8,6 +8,7 @@ Each exoplanet listed below has its own folder containing two Jupyter notebooks:
 - One for data cleaning and preparation
 - One for modeling and analysis of the phase curve
 - *Note: For KELT-9b, only one notebook exists because the data cleaning was completed by advisor, Anusha Pai Asnodkar, prior to analysis.
+
 Includes a Python file (TESSPhaseCurve_lib.py) containing custom functions that are imported and used across all notebooks.
 
 ## Planets Studied
